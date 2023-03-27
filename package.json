@@ -39,7 +39,8 @@
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.1.1",
     "jsesc": "^3.0.2",
-    "open": "^7.3.0"
+    "open": "^7.3.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
